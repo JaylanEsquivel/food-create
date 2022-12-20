@@ -20,7 +20,6 @@
         padding: 50px;
         bottom: 0px;
         width: 100%;
-        position: absolute;
     }
 
 </style>

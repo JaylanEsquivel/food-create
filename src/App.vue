@@ -38,5 +38,6 @@ import Footer from './components/Footer.vue';
     h1{
       color: #222;
       text-align: center;
+      margin-top: 20px;
     }
 </style>
