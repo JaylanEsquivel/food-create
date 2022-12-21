@@ -23,6 +23,16 @@
         padding: 20px;
         font-size: 60px;
     }
+    @media screen and (max-width: 500px) {
+        #banner-main{
+            background-position: 0px;
+            background-repeat: no-repeat;
+            height: 300px;
+        }
+        h1{
+            font-size: 25px;
+        }
+    }
 
 
 </style>

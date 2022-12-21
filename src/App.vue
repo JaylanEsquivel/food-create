@@ -39,5 +39,12 @@ import Footer from './components/Footer.vue';
       color: #222;
       text-align: center;
       margin-top: 20px;
+      margin-bottom: 20px;
     }
+    @media screen and (max-width: 500px) {
+      h1{
+        font-size: 28px;
+      }
+    }
+
 </style>
