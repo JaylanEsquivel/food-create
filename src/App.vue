@@ -31,8 +31,9 @@ import Footer from './components/Footer.vue';
 
     .main-container{
       padding: 20px;
-      min-height: 250px;
-      background-color: #fbfbfb;
+      min-height: 350px;
+      background-color: rgb(247, 247, 247);
+      margin-bottom: 20px;
     }
 
     h1{

@@ -112,7 +112,6 @@
     #burguer-from{
         max-width: 400px;
         margin: 0 auto;
-
     }
     .input-container{
         display: flex;

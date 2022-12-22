@@ -79,38 +79,15 @@
   ],
   "burgers": [
     {
-      "nome": "teste",
-      "pao": "Italiano Branco",
-      "carne": "Maminha",
+      "nome": "Jaylan Esquivel",
+      "pao": "Parmesão e Orégano",
+      "carne": "Picanha",
       "opcionais": [
         "Bacon",
-        "Cheddar"
+        "Tomate"
       ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Maria",
-      "pao": "3 Queijos",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Salame",
-        "Bacon",
-        "Tomate",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Joao",
-      "pao": "Integral",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 3
+      "status": "Finalizado",
+      "id": 4
     }
   ]
 }
